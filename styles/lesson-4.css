@@ -1,0 +1,58 @@
+.pag-button{
+  padding: 8px 8px;
+  vertical-align: center;
+}
+
+a {
+  margin-left: 4px;
+  margin-right: 4px;
+}
+
+.btn-plus {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 3px 7px;
+  margin-left: 4px;
+  margin-right: 4px;
+  cursor: pointer;
+}
+
+.stretch-button {
+  transition: padding 0.6s;
+}
+
+.stretch-button:hover {
+  padding: 9px 21px;
+}
+
+.shadow-button {
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.20);
+  /*
+  transition: box-shadow 0.15s, 
+  margin-top 0.05s, 
+  margin-right 0.05s, 
+  margin-left 0.05s;
+  */
+}
+
+.shadow-button:active {
+  box-shadow: 0px 0px 0px;
+  margin-top: 3px;
+  margin-left: 3px;
+  margin-right: 3px;
+}
+
+.button-123 {
+  transition: padding-left 0.15s,
+  padding-right 0.15s,
+  margin-left 0.15s,
+  margin-right 0.15s;
+}
+
+.button-123:hover {
+  padding-left: 12px;
+  padding-right: 12px;
+  margin-left: 1px;
+  margin-right: 1px;
+}

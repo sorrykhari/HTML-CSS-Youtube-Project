@@ -1,0 +1,119 @@
+/*
+.five-a {
+  font-family: Tahoma;
+  font-weight: bold;
+}
+
+.five-b {
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: px;
+}
+
+.five-b-2 {
+  color: red;
+  font-style: italic;
+  font-weight: 100;
+  font-size: 16px;
+}
+
+.five-c{
+  font-family: Verdana;
+  margin: 0px;
+}
+
+.five-c-2 {
+  font-weight: bold;
+}
+
+.five-c-3 {
+  color: rgb(96, 96, 96);
+  margin-bottom: 30px;
+}
+
+.five-c-4 {
+  width: 280px;
+  margin-bottom: 25px;
+}
+
+.five-c-5 {
+  background-color: green;
+  color: white;
+  border: none; 
+  border-radius: 6px;
+  padding: 8px 15px;
+}
+  */
+
+  /*
+.five-e {
+  font-family: Arial;
+  margin: 0px;
+  text-align: center;
+}
+
+.e-1 {
+  font-size: 12px;
+  color: red;
+  margin-bottom: 8px;
+}
+
+.e-2 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 2px;
+}
+
+.e-3 {
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 6px
+}
+
+.e-4 {
+  color: gray;
+  margin-bottom: 10px;
+}
+
+.e-5 {
+  margin-left:330px;
+  background-color: rgb(51, 118, 243);
+  color: white;
+  border: none;
+  border-radius: 14px;
+  padding: 4px 12px;
+}
+*/
+
+.price-info {
+  font-family: Arial;
+  margin: 0px;
+}
+
+.amount {
+  font-size: 26px;
+  margin-bottom: 8px;
+  font-weight: 500;
+}
+
+.currency {
+  font-size: 14px;
+  color: rgb(126, 125, 125);
+  font-weight: 600;
+}
+
+.increase {
+  color: green;
+  font-weight: 200;
+  margin-bottom: 8px;
+}
+
+.description {
+  color: rgb(125, 125, 125);
+  font-weight: 500;
+}
+
+.decrease {
+  color: red;
+} 
