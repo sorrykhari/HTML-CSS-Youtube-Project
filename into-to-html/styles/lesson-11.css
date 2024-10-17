@@ -1,0 +1,32 @@
+.friend-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  row-gap: 20px;
+  column-gap: 10px;
+}
+
+.friend-wrapper {
+  font-family: Arial;
+  box-shadow: 0px 2px 2px 2px gray;
+  width: 200px;
+}
+
+.strawhat {
+  margin-bottom: -5px;
+  width: 200px;
+  height: 213px;
+}
+
+.friend-button {
+  border: none;
+  border-radius: 4px;
+  padding: 10px 25px;
+  background-color: rgb(77, 119, 236);
+  color: white;
+  cursor: pointer;
+}
+
+.padder {
+  margin-left: 6px;
+  margin-bottom: 6px;
+}
