@@ -30,3 +30,11 @@
   margin-left: 6px;
   margin-bottom: 6px;
 }
+
+.search-flex {
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: rgb(120, 52, 185);
+  border: 1px;
+}

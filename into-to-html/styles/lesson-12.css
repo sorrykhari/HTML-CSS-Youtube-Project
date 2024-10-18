@@ -1,0 +1,79 @@
+.notification-button {
+  margin: 4px;
+  padding: 2px 10px;
+  border-radius: 10px;
+  background-color: rgb(68, 116, 237);
+  color: white;
+  border: none;
+  font-weight: bold;
+}
+
+p {
+  margin: 8px;
+}
+
+.strawhat {
+  margin-bottom: -5px;
+  width: 66px;
+  height: 66px;
+  border-radius: 33px;
+  display: block;
+  margin-bottom: 16px;
+}
+
+.person-container {
+  width: 85px;
+}
+
+.info-container {
+  width: 350px;
+  line-height: 16px;
+}
+
+.info-section {
+  margin-bottom:20px;
+}
+
+.follow-button{
+  display: block;
+  padding: 8px 24px;
+  background-color: rgb(37, 142, 247);
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-size: 20px;
+  margin-bottom: 56px;
+}
+
+.search-flex {
+  display:flex;
+  font-family: Arial;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(120, 82, 178);
+  color: white;
+  padding: 10px 8px;
+}
+
+.download-button {
+  background-color:rgb(120, 82, 178);
+  color: white;
+  border-width: 1px;
+  border-color: white;
+  border-style: solid;
+  border-radius: 3px;
+  padding: 10px 20px;
+  font-size: 14px;
+}
+
+.search-bar {
+  padding-left: 12px;
+  width: 650px;
+  height: 30px;
+  border-radius: 15px;
+  border: none;
+  font-size: 14px;
+  font-weight: 5 00;
+}
+
