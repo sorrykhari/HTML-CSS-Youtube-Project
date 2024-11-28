@@ -2,6 +2,10 @@
    width: 100%;
 }
 
+.thumbnail-row {
+   position: relative;
+   margin-bottom: 12px;
+}
 
 .video-grid {
    display: grid;
@@ -15,13 +19,7 @@
    font-size: 14px;
    font-weight: 500;
    line-height: 18px;
-   margin-bottom: 12px;
-}
-
-.video-preview {
-}
-
-.video-info {
+   margin-bottom: 10px;
 }
 
 .video-info-grid {
@@ -51,16 +49,15 @@
    right: 8px;
 }
 
-.channel-picture {}
-
-
 .profile-picture {
-   width: 40px;
+   width: 36px;
    border-radius: 20px;
 }
 
-.thumbnail-row {
-   position: relative;
-   margin-bottom: 12px;
+.channel-picture .channel-tooltip {
+   opacity: 0;
 }
 
+.channel-picture:hover .channel-tooltip {
+   opacity: 1;
+}
